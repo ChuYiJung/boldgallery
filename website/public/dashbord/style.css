@@ -1,0 +1,31 @@
+body {
+    font-size: 15px !important;
+    font-weight: 600;
+}
+/*****star main navbar******/
+.navbar {
+    border-radius: 0px !important;
+    border: none !important;
+}
+/*****end main navbar******/
+/*****star right dropdown menu******/
+.navbar-right .dropdown ul {
+    padding: 0px;
+    border: none;
+}
+.navbar-right .dropdown ul > li {
+    padding: 0px auto !important;
+    min-width: 200px !important;
+}
+.navbar-right .dropdown ul > li > a {
+    padding: 10px 25px;
+    font-weight: 550;
+}
+.navbar-right .dropdown ul > li > a:hover,
+.navbar .navbar-header a:hover,
+.navbar .navbar-nav > li:hover,
+.navbar-right .dropdown > a:hover {
+    background-color: #2980b9 !important;
+    color: #fff !important;
+}
+/*****star right dropdown menu******/

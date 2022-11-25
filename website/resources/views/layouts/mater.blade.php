@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Offical Art Center - 官方網站</title>
+  <title>International Art Center - 官方網站</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
   <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Anton'>
   <link rel="stylesheet" href="scan/style.css">
@@ -247,7 +247,7 @@
     <div class="trigger"></div>
     <div class="trigger"></div>
     <div class="trigger"></div><div class="mark">
-      <h1 style="font-size: 50px;">Offical Art Center</h1></div>
+      <h1 style="font-size: 50px;">International Art Center</h1></div>
     <div class="trigger"></div>
     <div class="trigger"></div>
     <div class="trigger"></div>
